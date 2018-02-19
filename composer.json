@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pusher/pusher-php-server": "^3.0",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
