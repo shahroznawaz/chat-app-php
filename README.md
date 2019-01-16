@@ -13,3 +13,8 @@ Setup a Pusher account & get the API keys.
 Install Pusher & jQuery
 Add the Code
 Test the App in several browsers
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/shahroznawaz/chat-app-php/badge.svg?style=beer-square)](https://beerpay.io/shahroznawaz/chat-app-php)  [![Beerpay](https://beerpay.io/shahroznawaz/chat-app-php/make-wish.svg?style=flat-square)](https://beerpay.io/shahroznawaz/chat-app-php?focus=wish)
